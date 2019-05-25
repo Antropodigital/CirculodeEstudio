@@ -1,6 +1,6 @@
 ---
-title: "Ananke: a Hugo Theme"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+title: "Antropología de lo Digital"
+featured_image: '/images/Digiworld1.jpg'
+description: "Círculo de Estudios de la UNSAM"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Un laboratorio de ideas, un grupo de colegas, un espacio de trabajo académico y también un lugar de diversión.

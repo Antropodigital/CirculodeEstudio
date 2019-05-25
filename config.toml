@@ -1,13 +1,13 @@
-title = "Notre-Dame de Paris"
+title = "Antropología Digital"
 baseURL = "https://antropodigital.github.io/CirculodeEstudio/"
-languageCode = "en-us"
+languageCode = "es"
 theme = "ananke"
 publishDir = "docs"
 
 MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "es"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -18,9 +18,9 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
-  facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  description = "Círculo de estudios de la UNSAM"
+  facebook = "https://www.facebook.com/groups/ceantropodigital/"
+  twitter = ""
   instagram = ""
   youtube = ""
   github = ""
