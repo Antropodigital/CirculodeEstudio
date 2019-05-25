@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+baseURL = "https://antropodigital.github.io/CirculodeEstudio/"
 languageCode = "en-us"
 theme = "ananke"
 publishDir = "docs"
