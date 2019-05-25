@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Antropología de lo Digital on Antropología Digital</title>
-    <link>https://antropodigital.github.io/CirculodeEstudio/</link>
-    <description>Recent content in Antropología de lo Digital on Antropología Digital</description>
+    <title>Autores on Antropología Digital</title>
+    <link>https://antropodigital.github.io/CirculodeEstudio/autores/</link>
+    <description>Recent content in Autores on Antropología Digital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-	<atom:link href="https://antropodigital.github.io/CirculodeEstudio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://antropodigital.github.io/CirculodeEstudio/autores/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
