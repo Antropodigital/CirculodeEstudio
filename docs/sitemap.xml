@@ -27,13 +27,19 @@
   </url>
   
   <url>
-    <loc>https://antropodigital.github.io/CirculodeEstudio/equipo/</loc>
+    <loc>https://antropodigital.github.io/CirculodeEstudio/autores/coleman/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://antropodigital.github.io/CirculodeEstudio/autores/coleman/</loc>
+    <loc>https://antropodigital.github.io/CirculodeEstudio/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://antropodigital.github.io/CirculodeEstudio/nosotres/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

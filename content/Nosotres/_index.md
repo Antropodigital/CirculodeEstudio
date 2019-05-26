@@ -1,5 +1,5 @@
 ---
-title: "Equipo"
+title: "Nosotres"
 featured_image: '/images/Digiworld1.jpg'
 description: "¿Quienes somos?"
 ---

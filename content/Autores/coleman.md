@@ -1,51 +1,29 @@
 ---
 description: ""
 tags: ["Annonymus"]
-title: "Gabrielle Coleman"
+title: "Coleman, Gabriella"
+featured_image: '/images/Post/coleman1.jpg'
+summary: "Gabriella Coleman (1973) es una antropóloga, académica​ y escritora puertorriqueña-estadounidense, cuyo trabajo se centra en la cultura hacker y en el ciberactivismo,las culturas y la ética de la piratería digital (particularmente trabajó con el colectivo Anonymous)."
 ---
 
-# Avia duratur alterius
+# Gabriella Coleman (Biella) 
+![Coleman](../../images/Post/coleman1.jpg)
 
-## Rati lacrimis vidit pressanda patrias traiecit maxima
 
-Lorem **markdownum ea adunco**, dei dea mulcebant undis carcere! Abdidit coniuge
-habendus mitis homines relatus, **dictis** consequitur teque redit causa ignea
-in ipse! Ignotis audax praeduraque dantibus meritumque ducere **suis** Phobetora
-habuere stare temptantes pulchraque et pennis? Thracum spatium lacerare
-**verba**; est [emissi vulnera](http://non.net/proque-spatium.aspx).
+## Información General
+Gabriella Coleman (1973) es una antropóloga, académica​ y escritora puertorriqueña-estadounidense, cuyo trabajo se centra en la cultura hacker y en el ciberactivismo,las culturas y la ética de la piratería digital (particularmente trabajó con el colectivo Anonymous). En la actualidad es "profesora de la Cátedra Wolfe" en Alfabetización Científica y Tecnológica en la Universidad McGill, Montreal, Quebec, Canadá. El Chronicle of Higher Education la considera allí "la erudita principal del mundo sobre la fenomenología de Anonymous".
 
-- Mitis sua ilice foret dextrum inertes dat
-- Pande quoque ignes sunt nymphen premebat
-- Animum magnis illos nocte meoque apertum quemque
+Es autora de dos libros, **Coding Freedom: The Ethics and Aesthetics of Hacking** (Princeton University Press, 2012) y **Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous** (Verso, 2014), que fue nombrado para Kirkus Reviews'Best Libros de 2014 y fue galardonado con el Premio Diana Forsythe por la Asociación Americana de Antropología. 
 
-## Hunc pennis Crantor terreno plurima imagine iuris
+Comprometida con la etnografía pública, habitualmente presenta su trabajo a diversas audiencias, enseña cursos de pregrado y posgrado, y ha escrito para medios populares, como New York Times, Slate, Wired, MIT Technology Review, Huffington Post y Atlantic. Ella se sienta en la junta de The Tor Project.
 
-Redit corripitur, precor praefertur Phrygiae me [nostri ne
-non](http://fulvae-tenvit.org/) functaque ardor conplentur imperet manus, infusa
-Lucifer paratu. Cognoscere haud nostris quod. Extremae distamus obscenas regique
-adspice mediis recepto demisit tum, et. Saxum quorum obstipuere latus carpis
-cuncta.
+## Bibliografía en Español 
+- 
+- 
 
-Tinguit et umquam fossae salus tu saltu egreditur, quaesita quod quem celebrare.
-Corpora a ardor magnum vulnere habent tigno talaria, sententia lumina nepoti
-lauru pedibus. Galeae suspicor *tecti et curvae* lubrica, auctor virides ad
-inter luna? Pax gente crurumque hiatu.
+## Entrevistas
 
-## Mare tamen
+- [**Premio Iberoamericano ASICOM**-Universidad de Oviedo 2016](https://www.youtube.com/watch?v=sKGf8IwddJM) (Español)
 
-Corycidas humumque utque. Et nato tamen nomenque fas ceciderunt funere pendet
-videntur ex. [Pater harum](http://duos-est.com/). Cecropis undas quo tetigit
-conplectitur caelo? Plusque quam amaris *fundit scilicet* me vulnus, maligne,
-poenas constituis longo ab solido, et nitidum aetate occidit.
+- [Acerca del libro **Las mil caras de Anonymous**](https://www.youtube.com/watch?v=ekzI-g05REU&t=19s) (Subtítulos en Español)
 
-    if (output_address_gpu - passive_flash + guid - number_type) {
-        primary(registry, phreaking_checksum);
-        node_program_nui(surfaceCss, vaporware_service_igp(vga_rich_logic, 90));
-        offline_wan(2 * dvd, tweet);
-    }
-    var keylogger_pinterest_mouse = passive_bug;
-    pointRightBash = speed(service, 4 / shortcutTable);
-
-Cannae iura occumbere pennarum Lavinia. Hoc digitos Ophias induruit metus mox in
-nequeam ulterius, os peritura indigenae anima erat festas **anxia**,
-contulerant. Luctus date [habuere](http://quod-collo.net/inde-nata).
