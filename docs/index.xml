@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antropología de lo Digital on Antropología Digital</title>
+    <link>https://antropodigital.github.io/CirculodeEstudio/</link>
+    <description>Recent content in Antropología de lo Digital on Antropología Digital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+	<atom:link href="https://antropodigital.github.io/CirculodeEstudio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coleman, Gabriella</title>
+      <link>https://antropodigital.github.io/CirculodeEstudio/autores/coleman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://antropodigital.github.io/CirculodeEstudio/autores/coleman/</guid>
+      <description>Gabriella Coleman (Biella) Información General Gabriella Coleman (1973) es una antropóloga, académica​ y escritora puertorriqueña-estadounidense, cuyo trabajo se centra en la cultura hacker y en el ciberactivismo,las culturas y la ética de la piratería digital (particularmente trabajó con el colectivo Anonymous). En la actualidad es &amp;ldquo;profesora de la Cátedra Wolfe&amp;rdquo; en Alfabetización Científica y Tecnológica en la Universidad McGill, Montreal, Quebec, Canadá. El Chronicle of Higher Education la considera allí &amp;ldquo;la erudita principal del mundo sobre la fenomenología de Anonymous&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://antropodigital.github.io/CirculodeEstudio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://antropodigital.github.io/CirculodeEstudio/contact/</guid>
+      <description>Si tenes alguna pregunta, recomendación de materiales relacionados con estas temáticas (ya sean bibliografía, música, videos, podcasts o lo que te parezca pertinente), aportes para mejorar la página o comentarios ¡escribinos!
+Nickname Mail de contacto Campo obligatorio  Mensaje   </description>
+    </item>
+    
+  </channel>
+</rss>
