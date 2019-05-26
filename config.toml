@@ -1,5 +1,5 @@
 title = "Antropología Digital"
-baseURL = "https://antropodigital.github.io/CirculodeEstudio/"
+baseURL = "https://antropodigital.js.org"
 languageCode = "es"
 theme = "ananke"
 publishDir = "docs"
