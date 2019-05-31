@@ -2,12 +2,12 @@
 description: ""
 tags: [""]
 title: "Moya, Marian"
-featured_image: '/images/Post/moya1.jpg'
+featured_image: '/images/Post/moya1.png'
 summary: "Marian Moya es Doctora en Sociología, por la Univ. Rikkyo de Tokio, Japón, y Lic. en Ciencias Antropológicas, por la Univ. de Buenos Aires. En ambas instituciones obtuvo distinciones por su desempeño académico (Diploma de Honor)."
 ---
 
 # Marian Moya
-![Moya](../../images/Post/moya2.jpg)
+![Moya](../../images/Post/moya2.png)
 
 
 ## Información General

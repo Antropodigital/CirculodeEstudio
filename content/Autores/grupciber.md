@@ -2,12 +2,12 @@
 description: ""
 tags: ["ciberespacio"]
 title: "GrupCiber"
-featured_image: '/images/Post/grupciber1.jpg'
+featured_image: '/images/Post/grupciber1.png'
 summary: "El Grupo de Estudios en Antropología del Ciberespacio - GrupCiber - integró la línea de investigación Cultura y Comunicación, del Programa de Postgrado en Antropología Social de la Universidad Federal de Santa Catarina"
 ---
 
 # GrupCiber 
-![Grupo Ciber](../../images/Post/grupciber1.jpg)
+![GrupCiber](../../images/Post/grupciber1.png)
 
 
 ## Información General

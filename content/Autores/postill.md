@@ -2,12 +2,12 @@
 description: ""
 tags: ["etnografía"]
 title: "Postill, John"
-featured_image: '/images/Post/postill1.jpg'
+featured_image: '/images/Post/postill1.jpeg'
 summary: "John Postill (PhD, UCL) es Vicepresidente de Investigación en la Universidad RMIT de Melbourne y Miembro de Antropología Digital en la University College London (UCL)."
 ---
 
 # John Postill
-![Postill](../../images/Post/postill2.jpg)
+![Postill](../../images/Post/postill2.jpeg)
 
 
 ## Información General
