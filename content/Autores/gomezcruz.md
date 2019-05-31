@@ -1,6 +1,6 @@
 ---
 description: ""
-tags: [ "etnografía" "visual" "imagen"]
+tags: ["etnografía","visual","imagen"]
 title: "Gómez Cruz, Edgar"
 featured_image: '/images/Post/gomezcruz1.jpg'
 summary: "Edgar Gómez Cruz es profesor titular de Medios (Culturas Digitales) en la Escuela de Artes y Medios de la UNSW en Sydney."
