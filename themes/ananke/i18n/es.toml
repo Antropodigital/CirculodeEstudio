@@ -11,7 +11,7 @@ other = "{{.Title }} Recientes"
 other = "Continuar Leyendo"
 
 [whatsInThis]
-other = "¿Qué hay aquí? {{ .Type }}"
+other = "¿Qué hay aquí? "
 
 [related]
-other = "Relacionados"
+other = "Relacionados por tag"

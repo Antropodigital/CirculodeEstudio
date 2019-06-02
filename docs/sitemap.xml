@@ -21,6 +21,12 @@
   </url>
   
   <url>
+    <loc>https://antropodigital.js.org/formulario/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://antropodigital.js.org/autores/ardevol/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -28,6 +34,18 @@
   
   <url>
     <loc>https://antropodigital.js.org/autores/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://antropodigital.js.org/autores/case/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://antropodigital.js.org/autores/castells/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -51,13 +69,37 @@
   </url>
   
   <url>
+    <loc>https://antropodigital.js.org/tags/comunicaci%C3%B3n/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://antropodigital.js.org/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
+    <loc>https://antropodigital.js.org/tags/cyborg/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://antropodigital.js.org/autores/escobar/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://antropodigital.js.org/tags/etnograf%C3%ADa/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://antropodigital.js.org/tags/filosof%C3%ADa/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -75,9 +117,21 @@
   </url>
   
   <url>
+    <loc>https://antropodigital.js.org/autores/hine/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://antropodigital.js.org/tags/imagen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://antropodigital.js.org/autores/miller/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -93,9 +147,27 @@
   </url>
   
   <url>
+    <loc>https://antropodigital.js.org/tags/poder/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://antropodigital.js.org/autores/postill/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://antropodigital.js.org/tags/redes/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://antropodigital.js.org/tags/smartphone/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
   </url>
   
   <url>

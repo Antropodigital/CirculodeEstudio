@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Autores on Antropología Digital</title>
+    <title>Autores on Antropología de lo Digital</title>
     <link>https://antropodigital.js.org/autores/</link>
-    <description>Recent content in Autores on Antropología Digital</description>
+    <description>Recent content in Autores on Antropología de lo Digital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
@@ -16,7 +16,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://antropodigital.js.org/autores/ardevol/</guid>
-      <description>Elisenda Ardevol Información General Es Doctora por la Universidad Autónoma de Barcelona, profesora de Antropología Social y Cultural en los Estudios de Arte y Humanidades de la Universitat Oberta de Catalunya. Actualmente participa en el Máster sobre la Sociedad de la Información y el Conocimiento i en el programa de doctorado interdisciplinario sobre Sociedad de la Información de la UOC, donde imparte docencia sobre metodologías cualitativas. También participa en el master de Teoria y Práctica del Documental Creativo en la UAB y del master en Antropología Visual de la UB, además de otros cursos y seminarios sobre antropología y medios, con especial énfasis en las posibilidades de las tecnologías digitales y de la imagen en la investigación etnográfica.</description>
+      <description>Información General Es Doctora por la Universidad Autónoma de Barcelona, profesora de Antropología Social y Cultural en los Estudios de Arte y Humanidades de la Universitat Oberta de Catalunya. Actualmente participa en el Máster sobre la Sociedad de la Información y el Conocimiento i en el programa de doctorado interdisciplinario sobre Sociedad de la Información de la UOC, donde imparte docencia sobre metodologías cualitativas. También participa en el master de Teoria y Práctica del Documental Creativo en la UAB y del master en Antropología Visual de la UB, además de otros cursos y seminarios sobre antropología y medios, con especial énfasis en las posibilidades de las tecnologías digitales y de la imagen en la investigación etnográfica.</description>
+    </item>
+    
+    <item>
+      <title>Case,Amber</title>
+      <link>https://antropodigital.js.org/autores/case/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://antropodigital.js.org/autores/case/</guid>
+      <description>Información General Amber Case (Portland, Oregón) es una antropóloga cyborg, diseñadora de experiencias de usuario, conferencista y figura pública. Nació en 19861​ y se graduó en sociología por la Universidad Lewis &amp;amp; Clark en 2008, donde escribió un trabajo final de grado sobre teléfonos celulares. En 2010 Case y Aaron Parecki fundaron Geoloqi, una compañía de localización basada en software, en 2012 fue adquirida por la empresa Esri. Estudia la interacción entre los humanos y la tecnología; y cómo nuestra relación con la información está cambiando la forma en que las culturas piensan, actúan y entienden sus mundos.</description>
+    </item>
+    
+    <item>
+      <title>Castells, Manuel</title>
+      <link>https://antropodigital.js.org/autores/castells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://antropodigital.js.org/autores/castells/</guid>
+      <description>Información General Manuel Castells es Catedrático de Sociología en la Universitat Oberta de Catalunya (UOC), en Barcelona. También es University Professor y catedrático titular de la Cátedra Wallis Annenberg de Tecnología de Comunicación y Sociedad de la Escuela Annenberg de Comunicación, de la Universidad of Southern California, en Los Ángeles; Catedrático Emérito de Sociología y de Planeamiento Urbano y Regional en la Universidad de California en Berkeley, donde enseñó durante 24 años; Fellow of St.</description>
     </item>
     
     <item>
@@ -25,7 +43,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://antropodigital.js.org/autores/coleman/</guid>
-      <description>Gabriella Coleman (Biella) Información General Gabriella Coleman (1973) es una antropóloga, académica​ y escritora puertorriqueña-estadounidense, cuyo trabajo se centra en la cultura hacker y en el ciberactivismo,las culturas y la ética de la piratería digital (particularmente trabajó con el colectivo Anonymous). En la actualidad es &amp;ldquo;profesora de la Cátedra Wolfe&amp;rdquo; en Alfabetización Científica y Tecnológica en la Universidad McGill, Montreal, Quebec, Canadá. El Chronicle of Higher Education la considera allí &amp;ldquo;la erudita principal del mundo sobre la fenomenología de Anonymous&amp;rdquo;.</description>
+      <description>Información General Gabriella Coleman (1973) es una antropóloga, académica​ y escritora puertorriqueña-estadounidense, cuyo trabajo se centra en la cultura hacker y en el ciberactivismo,las culturas y la ética de la piratería digital (particularmente trabajó con el colectivo Anonymous). En la actualidad es &amp;ldquo;profesora de la Cátedra Wolfe&amp;rdquo; en Alfabetización Científica y Tecnológica en la Universidad McGill, Montreal, Quebec, Canadá. El Chronicle of Higher Education la considera allí &amp;ldquo;la erudita principal del mundo sobre la fenomenología de Anonymous&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Escobar, Arturo</title>
+      <link>https://antropodigital.js.org/autores/escobar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://antropodigital.js.org/autores/escobar/</guid>
+      <description>Información General Arturo Escobar (Manizales, Colombia, 1952) es un antropólogo colombiano y profesor en la Universidad de Carolina del Norte en Chapel Hill cuyas áreas de interés son la ecología política, la antropología del desarrollo, movimientos sociales, ciencia y tecnología así como cuestiones sobre Colombia.
+Escobar empezó estudiando inicialmente ingeniería en la Universidad del Valle (Cali, Colombia) y desde esa época (1969) empezó a confrontarse con los problemas relativos al hambre y a la pobreza de vastos sectores de la población colombiana.</description>
     </item>
     
     <item>
@@ -34,7 +62,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://antropodigital.js.org/autores/grupciber/</guid>
-      <description>GrupCiber Información General El Grupo de Estudios en Antropología del Ciberespacio - GrupCiber - integró la línea de investigación Cultura y Comunicación, del Programa de Postgrado en Antropología Social de la Universidad Federal de Santa Catarina. Desde 1996 hemos desarrollado investigaciones dirigidas a los fenómenos sociales engendrados en el ciberespacio a partir de la expansión de las tecnologías de la información y de la comunicación y de las modalidades de comunicación mediada por ordenador.</description>
+      <description>Información General El Grupo de Estudios en Antropología del Ciberespacio - GrupCiber - integró la línea de investigación Cultura y Comunicación, del Programa de Postgrado en Antropología Social de la Universidad Federal de Santa Catarina. Desde 1996 hemos desarrollado investigaciones dirigidas a los fenómenos sociales engendrados en el ciberespacio a partir de la expansión de las tecnologías de la información y de la comunicación y de las modalidades de comunicación mediada por ordenador.</description>
     </item>
     
     <item>
@@ -43,7 +71,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://antropodigital.js.org/autores/gomezcruz/</guid>
-      <description>Edgar Gómez Cruz Información General Es profesor titular de Medios (Culturas Digitales) en la Escuela de Artes y Medios de la UNSW en Sydney. Tiene una creciente reputación internacional como etnógrafo digital con un registro sustancial de artículos y monografías de autores únicos y coautores. Ha publicado en diez países diferentes, en cuatro idiomas diferentes. Estas publicaciones son el resultado directo de una larga historia de ingresos, liderazgo y administración exitosos.</description>
+      <description>Información General Es profesor titular de Medios (Culturas Digitales) en la Escuela de Artes y Medios de la UNSW en Sydney. Tiene una creciente reputación internacional como etnógrafo digital con un registro sustancial de artículos y monografías de autores únicos y coautores. Ha publicado en diez países diferentes, en cuatro idiomas diferentes. Estas publicaciones son el resultado directo de una larga historia de ingresos, liderazgo y administración exitosos. Supervisión de UG a PhD.</description>
+    </item>
+    
+    <item>
+      <title>Hine, Christine</title>
+      <link>https://antropodigital.js.org/autores/hine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://antropodigital.js.org/autores/hine/</guid>
+      <description>Información General Christine Hine es una socióloga de la ciencia y la tecnología que se centra especialmente en el papel que desempeñan las nuevas tecnologías en el proceso de construcción del conocimiento. Tiene un gran interés en el desarrollo de la etnografía en entornos técnicos y en &amp;ldquo;métodos virtuales&amp;rdquo; (el uso de Internet en la investigación social). En particular, ha desarrollado enfoques móviles y conectivos a la etnografía que combinan contextos sociales en línea y fuera de línea.</description>
+    </item>
+    
+    <item>
+      <title>Miller, Daniel</title>
+      <link>https://antropodigital.js.org/autores/miller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://antropodigital.js.org/autores/miller/</guid>
+      <description>Información General Daniel Miller (nacido en 1954) es un antropólogo que más se asocia con los estudios de la relación humana con las cosas, y las consecuencias del consumo. Su trabajo teórico fue desarrollado por primera vez en la cultura material y el consumo de las masas, y se resume más recientemente en su libro Stuff. Trata de trascender el habitual dualismo entre sujeto y objeto, y estudiar cómo se crean las relaciones sociales a través del consumo como una actividad.</description>
     </item>
     
     <item>
@@ -52,7 +98,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://antropodigital.js.org/autores/moya/</guid>
-      <description>Marian Moya Información General Marian Moya es Doctora en Sociología, por la Univ. Rikkyo de Tokio, Japón, y Lic. en Ciencias Antropológicas, por la Univ. de Buenos Aires. En ambas instituciones obtuvo distinciones por su desempeño académico (Diploma de Honor). Fue becaria durante 8 años del Ministerio de Educación del Japón y residió 10 años en ese país. Actualmente, es Profesora de &amp;ldquo;Antropología Aplicada&amp;rdquo; en la Univ. Nacional de San Martín, y de otras asignaturas en diferentes casas de estudio.</description>
+      <description>Información General Marian Moya es Doctora en Sociología, por la Univ. Rikkyo de Tokio, Japón, y Lic. en Ciencias Antropológicas, por la Univ. de Buenos Aires. En ambas instituciones obtuvo distinciones por su desempeño académico (Diploma de Honor). Fue becaria durante 8 años del Ministerio de Educación del Japón y residió 10 años en ese país. Actualmente, es Profesora de &amp;ldquo;Antropología Aplicada&amp;rdquo; en la Univ. Nacional de San Martín, y de otras asignaturas en diferentes casas de estudio.</description>
     </item>
     
     <item>
@@ -61,7 +107,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://antropodigital.js.org/autores/postill/</guid>
-      <description>John Postill Información General John Postill (PhD, UCL) es Vicepresidente de Investigación en la Universidad RMIT de Melbourne y Miembro de Antropología Digital en la University College London (UCL). Sus publicaciones incluyen Localizing the Internet (2011), Media and Nation Building (2006) y el volumen coeditado Theorising Media and Practice (2010, con Birgit Bräuchler). Actualmente está escribiendo un libro titulado Tecnólogos de la libertad: activismo digital y cambio político a principios del siglo XXI, y el volumen coeditado Theorising Media and Change (con Elisenda Ardèvol y Sirpa Tenhunen)</description>
+      <description>Información General John Postill (PhD, UCL) es Vicepresidente de Investigación en la Universidad RMIT de Melbourne y Miembro de Antropología Digital en la University College London (UCL). Sus publicaciones incluyen Localizing the Internet (2011), Media and Nation Building (2006) y el volumen coeditado Theorising Media and Practice (2010, con Birgit Bräuchler). Actualmente está escribiendo un libro titulado Tecnólogos de la libertad: activismo digital y cambio político a principios del siglo XXI, y el volumen coeditado Theorising Media and Change (con Elisenda Ardèvol y Sirpa Tenhunen)</description>
     </item>
     
   </channel>

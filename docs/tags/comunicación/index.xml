@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comunicación on Antropología de lo Digital</title>
+    <link>https://antropodigital.js.org/tags/comunicaci%C3%B3n/</link>
+    <description>Recent content in Comunicación on Antropología de lo Digital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+	<atom:link href="https://antropodigital.js.org/tags/comunicaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Castells, Manuel</title>
+      <link>https://antropodigital.js.org/autores/castells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://antropodigital.js.org/autores/castells/</guid>
+      <description>Información General Manuel Castells es Catedrático de Sociología en la Universitat Oberta de Catalunya (UOC), en Barcelona. También es University Professor y catedrático titular de la Cátedra Wallis Annenberg de Tecnología de Comunicación y Sociedad de la Escuela Annenberg de Comunicación, de la Universidad of Southern California, en Los Ángeles; Catedrático Emérito de Sociología y de Planeamiento Urbano y Regional en la Universidad de California en Berkeley, donde enseñó durante 24 años; Fellow of St.</description>
+    </item>
+    
+  </channel>
+</rss>

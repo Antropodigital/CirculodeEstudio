@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyborg on Antropología de lo Digital</title>
+    <link>https://antropodigital.js.org/tags/cyborg/</link>
+    <description>Recent content in Cyborg on Antropología de lo Digital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+	<atom:link href="https://antropodigital.js.org/tags/cyborg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Case,Amber</title>
+      <link>https://antropodigital.js.org/autores/case/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://antropodigital.js.org/autores/case/</guid>
+      <description>Información General Amber Case (Portland, Oregón) es una antropóloga cyborg, diseñadora de experiencias de usuario, conferencista y figura pública. Nació en 19861​ y se graduó en sociología por la Universidad Lewis &amp;amp; Clark en 2008, donde escribió un trabajo final de grado sobre teléfonos celulares. En 2010 Case y Aaron Parecki fundaron Geoloqi, una compañía de localización basada en software, en 2012 fue adquirida por la empresa Esri. Estudia la interacción entre los humanos y la tecnología; y cómo nuestra relación con la información está cambiando la forma en que las culturas piensan, actúan y entienden sus mundos.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smartphone on Antropología de lo Digital</title>
+    <link>https://antropodigital.js.org/tags/smartphone/</link>
+    <description>Recent content in Smartphone on Antropología de lo Digital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+	<atom:link href="https://antropodigital.js.org/tags/smartphone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Miller, Daniel</title>
+      <link>https://antropodigital.js.org/autores/miller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://antropodigital.js.org/autores/miller/</guid>
+      <description>Información General Daniel Miller (nacido en 1954) es un antropólogo que más se asocia con los estudios de la relación humana con las cosas, y las consecuencias del consumo. Su trabajo teórico fue desarrollado por primera vez en la cultura material y el consumo de las masas, y se resume más recientemente en su libro Stuff. Trata de trascender el habitual dualismo entre sujeto y objeto, y estudiar cómo se crean las relaciones sociales a través del consumo como una actividad.</description>
+    </item>
+    
+  </channel>
+</rss>

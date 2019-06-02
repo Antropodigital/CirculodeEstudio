@@ -1,12 +1,12 @@
 ---
 description: ""
 tags: ["etnografía"]
+toc: true
 title: "Ardevol, Elisenda"
 featured_image: '/images/Post/ardevol1.jpg'
 summary: "Elisenda Ardevol es Doctora por la Universidad Autónoma de Barcelona, profesora de Antropología Social y Cultural en los Estudios de Arte y Humanidades de la Universitat Oberta de Catalunya."
 ---
 
-# Elisenda Ardevol 
 ![Ardevol](../../images/Post/ardevol2.jpg)
 
 
@@ -20,7 +20,7 @@ Coordinadora del grupo de investigación interdisciplinario Mediaccions sobre cu
 - 
 - 
 
-## Entrevistas
+## Videos (entrevistas, presentaciones, charlas)
 
 - [**Presentación en el Seminario Diversidad Cultural y Nuevas Tecnológicas:
 Casos y propuestas para una agenda de investigación**](https://www.youtube.com/watch?v=4Eg3sejQBg4)
